@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cities>
+    <city id="2" name="Köln">
+        <district id="201" name="Mitte"/>
+    </city>
+    <city id="3" name="Hamburg">
+        <district id="301" name="Mittlere Mitte"/>
+        <district id="302" name="Altona"/>
+        <district id="303" name="Erlangen"/>
+    </city>
+    <city id="4" name="Stuttgart">
+        <district id="401" name="Einundzwanzig"/>
+        <district id="404" name="NotFound"/>
+        <district id="405" name="Found"/>
+        <district id="407" name="Schöneberg"/>
+        <district id="408" name="Mitte"/>
+        <district id="409" name="Westen"/>
+    </city>
+    <city id="5" name="Rostock">
+        <district id="501" name="Mitte"/>
+    </city>
+    <city id="6" name="Ostenburg">
+        <district id="601" name="Mitte vom Osten"/>
+    </city>
+    <city id="7" name="Ostenburg">
+        <district id="701" name="Mitte"/>
+        <district id="702" name="Gestern"/>
+        <district id="703" name="Alstedt"/>
+        <district id="704" name="Gester"/>
+    </city>
+    <city id="11" name="Schweinfurt">
+        <district id="1101" name="Schweinwest"/>
+    </city>
+    <city id="20" name="Mahlow">
+        <district id="2001" name="Mitte"/>
+    </city>
+    <city id="21" name="Blighttown">
+        <district id="2101" name="Poison"/>
+    <district id="2102" name="Bleed"/>
+    
+    <district id="2104" name="Mosquitoes"/>
+    <district id="2105" name="uuuh"/>
+    </city>
+
+<city id="23" name="Morrowind">
+        <district id="2301" name="Vvardenfell"/>
+    </city>
+<city id="24" name="Skyrim">
+        <district id="2401" name="Riften"/>
+    <district id="2402" name="Markath"/>
+    </city>
+
+<city id="25" name="Cortana">
+        <district id="2501" name="Lenovo"/>
+    </city>
+</cities>

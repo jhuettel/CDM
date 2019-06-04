@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:attributeGroup name="definitionattgrp">
+		<xs:attribute name="id" type="xs:string"/>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:attributeGroup>
+	<xs:element name="cities">
+		<xs:all>
+			<xs:element name="city" type="citype" maxOccurs="unbounded" minOccurs="0"/>
+			<xs:complexType name="citype">
+				<xs:all>
+					<xs:element name="district" type="distype" maxOccurs="unbounded" minOccurs="0"/>
+					<xs:complexType name="distype">
+						<xs:attributeGroup ref="definitionattgrp"/>
+					</xs:complexType>
+				</xs:all>
+				<xs:attributeGroup ref="definitionattgrp"/>
+			</xs:complexType>
+		</xs:all>
+	</xs:element>
+</xs:schema>

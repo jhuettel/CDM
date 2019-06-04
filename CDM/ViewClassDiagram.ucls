@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.oszimt.cdm.view.AddCityPanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/AddCityPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="101" y="186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.oszimt.cdm.view.CityDistrictTable" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/CityDistrictTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="514" y="881"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.oszimt.cdm.view.EntryPanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/EntryPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="685" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.oszimt.cdm.view.MyComboBox" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/MyComboBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="578" y="-88"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.oszimt.cdm.view.MyTextField" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/MyTextField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="687" y="652"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.oszimt.cdm.view.DataService" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/DataService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="184" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.oszimt.cdm.view.ShowCityPanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/ShowCityPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="425" y="326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.oszimt.cdm.view.Gui" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/Gui.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="104" y="-146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.oszimt.cdm.view.TablePanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/TablePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="496" y="640"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.oszimt.cdm.view.ContentPanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/ContentPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="423" y="472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.oszimt.cdm.view.AddDistrictPanel" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/AddDistrictPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="538" y="86"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.oszimt.cdm.view.ActionButton" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/ActionButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="115" y="4"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.oszimt.cdm.view.tui.Tui" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/tui/Tui.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="353" y="26"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="14" language="java" name="com.oszimt.cdm.view.tui.Tui.MenuSelection" project="CDM" 
+    file="/CDM/src/main/java/com/oszimt/cdm/view/tui/Tui.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="615" y="361"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <association id="15">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="16" name="instance"/>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="18">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="19">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="20" name="table"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
